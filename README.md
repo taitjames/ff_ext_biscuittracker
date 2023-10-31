@@ -5,3 +5,8 @@ Current Status - 0.0.1
 
 - Ducks only schedule
 - Auto timezone
+
+Planned 0.0.2
+
+- Team selector
+- Live Scores

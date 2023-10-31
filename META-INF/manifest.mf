@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SAZrdhkFrussULdP4+BbvKyuNck=
+SHA256-Digest: BqGIKOTxc5PgmaPsAkYtduicFIYTpacqMt3M7s4m6xw=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6RXQmpy/WL62bGMKEVKmjY3FRhc=
+SHA256-Digest: Zi8jn3jlQT9e09BtmmqN/Z5Sa3DH4aKJZQiix0Wx+Pk=
+
+Name: popup.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lX7t6vt9fHI/LgBtvGjFj7asQHQ=
+SHA256-Digest: 5Qk/jFPSoIhLlP4nFnrjtQV7HTykycw2nQy+ubORyCU=
+
+Name: popup.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XYBUgdSZfN7tSryjPtISEHIyX0U=
+SHA256-Digest: IAfQbPNxcA8xxMkwbYnlaFNZ7W0C/vuBpIwT+XXJgOY=
+
+Name: schedule.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zH0B/Kzc198ZvJ/SD9ymfnzeZeU=
+SHA256-Digest: n+6TBtgy/BxjA0tYxvyRVH8dI1senKVZn71QqfGfzRQ=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WfCFhWh3W72SqTezzyBLb3m7mJQ=
+SHA256-Digest: 7Zn3fSBDBymf+2RLSZQu9wvYKyAugwz5fI0evLw567M=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Nk69KGyrfA5HNAsgZKt/dZ+ajtM=
+SHA256-Digest: ilckBnZg8LIWwTpCEEKBpoQazcK+Cl9C5no0uvvP+mE=
+

@@ -1,0 +1,20 @@
+{
+  "name": "Ducks 2023-2024 Schedule",
+  "description": "A quick way to view the schedule for the Anaheim Ducks 2023-2024 NHL Season.",
+  "version": "2.0.5",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+	"id": "{3d79db25-5fc9-4386-aaf7-0aaf5e07930f}"
+    }
+  }
+}

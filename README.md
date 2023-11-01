@@ -1,7 +1,7 @@
-# ff_ext-hockey
-Firefox Hockey Schedule &amp; Score Extension
+# Firefox Hockey Schedule &amp; Score Extension
 
-**Current Status - 0.0.1**
+---
+## Current Status - 0.0.1
 
 - Daily NHL schedule
 - Auto timezone
@@ -11,7 +11,8 @@ Firefox Hockey Schedule &amp; Score Extension
   
   
 
-**Planned 0.0.2**
+---
+## Planned 0.0.2
 
 - Team selector
 - Live scores
@@ -19,11 +20,12 @@ Firefox Hockey Schedule &amp; Score Extension
 - Game beginning notification
 
 
-**NHL API -**
+---
+## NHL API -
 
-https://github.com/erunion/sport-api-specifications/tree/master/nhl
+_https://github.com/erunion/sport-api-specifications/tree/master/nhl_
   
   
-  
-  
+---
+## ACKNOWLEDGEMENTS - 
 *Note; I don't know what I'm doing.*

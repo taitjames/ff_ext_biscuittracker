@@ -16,3 +16,4 @@ NHL API -
 
 https://github.com/erunion/sport-api-specifications/tree/master/nhl
 
+Note; I don't really know what I'm doing. 

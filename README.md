@@ -1,25 +1,26 @@
 # Firefox Hockey Schedule &amp; Score Extension
 
 ---
-## Current Status - 0.0.1
+## [Current Status - 0.0.2](https://github.com/taitjames/ff_ext-hockey/releases/tag/Release)
 
-- Daily NHL schedule
+- Upcoming NHL schedule
+- Team selector
 - Auto timezone
 
 
 ---
 ## Installation
 
-**Install {3d79db25-5fc9-4386-aaf7-0aaf5e07930f}.xpi via Manage extensions/Debug Add-ons/Load Temporary Add-on... only.**
+**Go to [Releases](https://github.com/taitjames/ff_ext-hockey/releases/tag/Release) for the latest files. Install via Manage extensions/Debug Add-ons/Load Temporary Add-on... only.**
   
 
 ---
 ## Roadmap
 
-- Team selector
-- Live scores
-- Future schedules
 - Game beginning notifications
+- Live now
+- Live scores
+- Final scores
 
 
 ---
@@ -31,6 +32,6 @@ _https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?ref_type=he
   
 ---
 ## ACKNOWLEDGEMENTS - 
-*Note; I don't know what I'm doing.*  
+*Tait's Note; I don't know what I'm doing.*  
   
 *Extension initially uses JS from/inspired by [christhoma](https://addons.mozilla.org/en-US/firefox/addon/penguins-2022-2023-schedule/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)

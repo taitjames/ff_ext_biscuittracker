@@ -1,58 +1,14 @@
 <!DOCTYPE html>
-<style type="text/css">
-	body {
-		padding: 10px;
-		height: 500px;
-		width: 500px;
-        background-color: black;
-		color: white;
-		text-align: center;
-		font-family: Helvetica, Ubuntu, Arial, sans-serif;
-		font-size: 0.8em;
-		overflow-x: hidden
-	}
-	h1 {
-		font-size: 2em;
-		text-decoration: underline;
-		color: white
-	}
-	h2 {
-		font-size: 1.5em;
-		text-decoration: underline;
-		color: gray
-	}
-	#upcoming_games {
-		border: 1px solid white;
-		background-color: black;
-		width: 100%;
-		color: white
-	}
-	#previous_games {
-		border: 1px solid white;
-		background-color: black;
-		width: 100%;
-		color: gray
-	}
-	td {
-		border: 1px solid #F29C39;
-        padding: 5px;
-	}
-	#nhl {
-		width:36px;
-		height: auto;
-	}
-	a {
-		color: white;
-	}
-	#links{
-		color: white;
-		width: 100%;
-	}
-</style>
+<head>
+<link href="styles.css" rel="stylesheet" type="text/css"> <!-- Moved the css to a seperate style sheet because inline css pisses me off -->
+</head>
 <html>
     <body>
         <h1><a href="https://www.nhl.com/schedule" target="_blank">NHL 2023 / 2024 SCHEDULE</a></h1>
 		<h2><a href="https://www.nhl.com/standings/2023-10-31/conference" target="_blank"><font color="#F29C39">NHL STANDINGS</font></a></h2>
+		<select id="teamselect">
+			<option selected>None (Show all Teams)</option>
+		</select>
         <table id="upcoming_games">
             <tr>
                 <th>DATE</th>

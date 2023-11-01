@@ -1,0 +1,48 @@
+body {
+    padding: 10px;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Helvetica, Ubuntu, Arial, sans-serif;
+    font-size: 0.8em;
+    overflow-x: hidden
+}
+h1 {
+    font-size: 2em;
+    text-decoration: underline;
+    color: white
+}
+h2 {
+    font-size: 1.5em;
+    text-decoration: underline;
+    color: gray
+}
+#upcoming_games {
+    border: 1px solid white;
+    background-color: black;
+    width: 100%;
+    color: white
+}
+#previous_games {
+    border: 1px solid white;
+    background-color: black;
+    width: 100%;
+    color: gray
+}
+td {
+    border: 1px solid #F29C39;
+    padding: 5px;
+}
+#nhl {
+    width:36px;
+    height: auto;
+}
+a {
+    color: white;
+}
+#links{
+    color: white;
+    width: 100%;
+}

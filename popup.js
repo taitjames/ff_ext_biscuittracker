@@ -11,8 +11,24 @@ function createUpcomingGamesTable(data) {
         let dateObj = Date.parse(date.date);
         if (isDateBeforeToday(dateObj)) {
             addDateToTable(date.games[0], pastGames);
+			
         } else {
             addDateToTable(date.games[0], upcomingGames);
+			addDateToTable(date.games[1], upcomingGames);
+			addDateToTable(date.games[2], upcomingGames);
+			addDateToTable(date.games[3], upcomingGames);
+			addDateToTable(date.games[4], upcomingGames);
+			addDateToTable(date.games[5], upcomingGames);
+			addDateToTable(date.games[6], upcomingGames);
+			addDateToTable(date.games[7], upcomingGames);
+			addDateToTable(date.games[8], upcomingGames);
+			addDateToTable(date.games[9], upcomingGames);
+			addDateToTable(date.games[10], upcomingGames);
+			addDateToTable(date.games[11], upcomingGames);
+			addDateToTable(date.games[12], upcomingGames);
+			addDateToTable(date.games[13], upcomingGames);
+			addDateToTable(date.games[14], upcomingGames);
+			addDateToTable(date.games[15], upcomingGames);
         }
     }
 }

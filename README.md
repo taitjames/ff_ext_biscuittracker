@@ -32,4 +32,4 @@ _https://github.com/erunion/sport-api-specifications/tree/master/nhl_
 ## ACKNOWLEDGEMENTS - 
 *Note; I don't know what I'm doing.*  
   
-*Extension initially uses JS from/inspired by [christhoma]([addons.mozilla.org/en-US/firefox/addon/penguins-2022-2023-schedule)
+*Extension initially uses JS from/inspired by [christhoma](https://addons.mozilla.org/en-US/firefox/addon/penguins-2022-2023-schedule/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)

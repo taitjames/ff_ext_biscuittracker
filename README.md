@@ -6,7 +6,7 @@
 - Daily NHL schedule
 - Auto timezone
 
-**Install {3d79db25-5fc9-4386-aaf7-0aaf5e07930f}.xpi via debug addons only.**
+**Install {3d79db25-5fc9-4386-aaf7-0aaf5e07930f}.xpi via Manage extensions/Debug Add-ons/Load Temporary Add-on... only.**
   
   
   

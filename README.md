@@ -24,9 +24,10 @@
 
 ---
 ## NHL API -
-
-_https://github.com/erunion/sport-api-specifications/tree/master/nhl_
   
+_https://github.com/erunion/sport-api-specifications/tree/master/nhl_  
+_https://gitlab.com/dword4/nhlapi/-/tree/master?ref_type=heads_  
+_https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?ref_type=heads_  
   
 ---
 ## ACKNOWLEDGEMENTS - 

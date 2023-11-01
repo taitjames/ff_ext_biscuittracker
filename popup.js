@@ -43,4 +43,4 @@ fetch("./schedule.json")
         createUpcomingGamesTable(data);
     });
 
-// https://statsapi.web.nhl.com/api/v1/schedule?expand=schedule.brodcasts&teamId=24&startDate=2023-09-11&endDate=2024-06-25
+// https://statsapi.web.nhl.com/api/v1/schedule?expand=schedule.brodcasts&startDate=2023-09-11&endDate=2024-06-25

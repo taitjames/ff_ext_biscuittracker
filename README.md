@@ -3,13 +3,15 @@ Firefox Hockey Schedule &amp; Score Extension
 
 Current Status - 0.0.1
 
-- NHL schedule
+- Daily NHL schedule
 - Auto timezone
 
 Planned 0.0.2
 
 - Team selector
-- Live Scores
+- Live scores
+- Future schedule
+- Game beginning notification
 
 
 NHL API -

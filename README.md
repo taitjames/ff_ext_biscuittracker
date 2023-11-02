@@ -1,4 +1,4 @@
-# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/icon.png) THE ICE HOCKEY APP
+# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/popupheader.png)
 
 A Firefox Hockey Schedule &amp; Score Extension
 

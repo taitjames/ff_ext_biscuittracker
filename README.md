@@ -16,7 +16,7 @@
 ---
 ## Screenshot
 
-![screenshot](https://i.imgur.com/6sWAcF5.png)
+![screenshot](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/previewimage.png)
   
 
 ---

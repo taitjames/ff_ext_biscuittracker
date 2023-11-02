@@ -1,4 +1,6 @@
-# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/icon.png) Firefox Hockey Schedule &amp; Score Extension
+# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/icon.png) THE ICE HOCKEY APP
+
+A Firefox Hockey Schedule &amp; Score Extension
 
 ---
 ## [Current Status - 0.0.2](https://github.com/taitjames/ff_ext-hockey/releases/tag/Release)
@@ -22,6 +24,7 @@
 ---
 ## Roadmap
 
+- Save team selection
 - Game beginning notifications
 - Live now
 - Live scores

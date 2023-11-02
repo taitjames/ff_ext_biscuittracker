@@ -10,12 +10,12 @@ body {
     overflow-x: hidden
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     text-decoration: underline;
     color: white
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-decoration: underline;
     color: gray
 }

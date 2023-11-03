@@ -1,4 +1,4 @@
-# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/popupheader.png)
+# ![icon](https://raw.githubusercontent.com/taitjames/ff_ext_biscuittracker/main/popupheader.png)
 
 A Firefox Hockey Schedule &amp; Score Extension
 
@@ -18,7 +18,7 @@ A Firefox Hockey Schedule &amp; Score Extension
 ---
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/taitjames/ff_ext-hockey/main/previewimage.png)
+![screenshot](https://raw.githubusercontent.com/taitjames/ff_ext_biscuittracker/main/previewimage.png)
   
 
 ---
